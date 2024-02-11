@@ -34,6 +34,16 @@
 - TMDB Image CDN URL
 - Made the Browser page amazing with Tailwind CSS
 - We make custom hook
+- GPT Search Feature
+- GPT Search Bar
+- (BONUS) Multi-language Feature in our App
+- Get Open AI Api Key
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+- Made our Site Responsive
+
+
 
 
  
